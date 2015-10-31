@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 黄豆焖猪手
-category: 厨房
+category: 美食
 tags: 
 keywords: 
 description: 

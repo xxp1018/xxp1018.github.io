@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 煎蛋吐司
-category: 厨房
+category: 美食
 tags: 
 keywords: 
 description: 
